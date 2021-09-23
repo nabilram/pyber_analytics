@@ -1,4 +1,4 @@
-# pyber_analytics\
+# pyber_analytics
 
 # overview
 * Client is ridesharing company Pyber
@@ -6,12 +6,13 @@
     * Overall summary: driver and fares metrics by city type (data frame)
     * Visualization of fare trends between Jan-Apr 2019, with city type as feature
 
-# results
+# results and recommendations
+
 ## summary metrics
 
 * See table, below:
 
-![summary_df]()
+![summary_df](https://github.com/nabilram/pyber_analytics/blob/main/resources/summary_df.PNG)
 
 * Raw number of ride, drivers, and total are overwhelingly in URBAN areas
     * This makes sense as cities are more populated
@@ -23,7 +24,7 @@
 
 * see plot, below:
 
-![fare_city_weekly]()
+![fare_city_weekly](https://github.com/nabilram/pyber_analytics/blob/main/analysis/fare_city_weekly.png)
 
 * Recommendations
     * Possible reallocation of urban and suburban drivers in to rural areas in April
