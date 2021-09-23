@@ -5,6 +5,9 @@
 * Needing specific analytics
     * Overall summary: driver and fares metrics by city type (data frame)
     * Visualization of fare trends between Jan-Apr 2019, with city type as feature
+* Client provided the following data:
+    * [pyber city csv](https://github.com/nabilram/pyber_analytics/blob/main/resources/city_data.csv)
+    * [pyber ride csv](https://github.com/nabilram/pyber_analytics/blob/main/resources/ride_data.csv)
 
 ## Results and recommendations
 
