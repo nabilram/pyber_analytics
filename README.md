@@ -1,14 +1,14 @@
 # pyber_analytics
 
-# overview
+## Overview
 * Client is ridesharing company Pyber
 * Needing specific analytics
     * Overall summary: driver and fares metrics by city type (data frame)
     * Visualization of fare trends between Jan-Apr 2019, with city type as feature
 
-# results and recommendations
+## Results and recommendations
 
-## summary metrics
+### summary metrics
 
 * See table, below:
 
@@ -20,7 +20,7 @@
     * This makes sense as there is less demand in these areas
 * Suburban areas -- in both raw numbers and mean caculations -- lie in the middle. 
 
-## visualization for trends
+### visualization for trends
 
 * see plot, below:
 
