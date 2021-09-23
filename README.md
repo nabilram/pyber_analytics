@@ -8,7 +8,7 @@
 
 ## Results and recommendations
 
-### summary metrics
+### Summary metrics
 
 * See table, below:
 
@@ -20,7 +20,7 @@
     * This makes sense as there is less demand in these areas
 * Suburban areas -- in both raw numbers and mean caculations -- lie in the middle. 
 
-### visualization for trends
+### Visualization for trends
 
 * see plot, below:
 
@@ -31,6 +31,4 @@
         * see dip in urban, suburban and spike in rural (Apr)
     * Increasing supply in rural areas, however, does not always mean increase demand
         * total rides does not necessarily go up in rural areas during (Apr)
-    * Get more data. A few months of data to base recommendations on is simply not enough. 
-
-
+    * Get more data. A few months of data to base recommendations on is simply not enough.
